@@ -1,7 +1,7 @@
 boomerang.factory('Config', function () {
     return {
         //modify these
-        'name'          : 'GDG Z&uuml;rich',
+        'name'          : 'GDG Zürich',
         'id'            : '117715978948849333403',
         'google_api'    : 'AIzaSyCxVF8-3e2lOfG6uvS-JbkzMYIQPVnJ5c8',
         'pwa_id'        : '5801872673509185361', //picasa web album id, must belong to google+ id above
