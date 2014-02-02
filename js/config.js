@@ -1,16 +1,16 @@
 boomerang.factory('Config', function () {
     return {
         //modify these
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
-        'google_api'    : 'AIzaSyA9ALjr2iWvhf3Rsz9-bH0cEcDcrdkpuAg',
-        'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
+        'name'          : 'GDG Z&uuml;rich',
+        'id'            : '117715978948849333403',
+        'google_api'    : 'AIzaSyCxVF8-3e2lOfG6uvS-JbkzMYIQPVnJ5c8',
+        'pwa_id'        : '5801872673509185361', //picasa web album id, must belong to google+ id above
         'cover' : {
-            title : 'GWT.create',
-            subtitle : 'The largest event about GWT in 2013 with 2 days and more than 60 presentations.',
+            title : 'GDG DevSki Weekend',
+            subtitle : 'So we are hosting our first Google Developer Group Ski event. Together we are spending two days skiing and snowboarding in wonderful Laax.',
             button : {
-                text : 'Register',
-                url : 'http://gwtcreate.com/'
+                text : 'Join us',
+                url : 'https://developers.google.com/events/5882661339922432/'
             }
         }
     };
